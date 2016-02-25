@@ -1,0 +1,28 @@
+name: SparkInTheDarkFilms
+favicon: null
+layout_spectrum: 0.9438545184675604
+typography_spectrum: 0.09470885782502592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.644002690911293
+  lightness: 0.7870988554786891
+  saturation: 0.750343368621543
+  rhythmicContrast: 0.10358891799114645
+purpose: []
